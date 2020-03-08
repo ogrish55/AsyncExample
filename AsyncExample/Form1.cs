@@ -22,6 +22,7 @@ namespace AsyncExample
             
             CountFiveSeconds();
             textBox1.Text += "Waiting for method" + Environment.NewLine;
+            textBox1.Text += "Made changes from laptop" + Environment.NewLine;
             
         }
 
